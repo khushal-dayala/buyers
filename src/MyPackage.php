@@ -1,11 +1,11 @@
 <?php
 
-namespace MyVendor\MyPackage;
+namespace BuyersList\MyPackage;
 
 class MyPackage
 {
     public function greet($name)
     {
-        return "Hello, $name!";
+        return "Hello $name!";
     }
 }

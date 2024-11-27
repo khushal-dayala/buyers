@@ -2,7 +2,7 @@
 
 require __DIR__ . '/vendor/autoload.php';
 
-use MyVendor\MyPackage\MyPackage;
+use BuyersList\MyPackage\MyPackage;
 
 $package = new MyPackage();
-echo $package->greet("World");
+echo $package->greet("Friends, I am using this package for get buyers list");
