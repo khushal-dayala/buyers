@@ -1,0 +1,19 @@
+{
+    "name": "khushal-bytes/buyerslist",
+    "description": "This is brief for buyers list",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "khushal Dayala"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+    "psr-4": {
+        "MyVendor\\MyPackage\\": "src/"
+    }
+}
+
+}
